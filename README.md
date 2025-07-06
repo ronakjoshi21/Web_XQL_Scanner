@@ -1,4 +1,4 @@
-$$ Web Application Vulnerability Scanner $$
+$$ Web_XQL_(XSS/SQLi)_Scanner $$
 
 A lightweight Python-based web vulnerability scanner designed to detect common security flaws such as SQL Injection and Cross-Site Scripting (XSS) using the `requests` and `BeautifulSoup` libraries.
 
