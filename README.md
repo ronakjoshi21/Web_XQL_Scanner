@@ -55,7 +55,7 @@ A lightweight Python-based web vulnerability scanner designed to detect common s
 
 
 
-Made with ❤️ by Mitanshu Patel
-Connect on LinkedIn (www.linkedin.com/in/mitanshu-patel-090a61286) | Follow on GitHub (https://github.com/meet-pat)
+Made by - Ronak Joshi
+- Connect on LinkedIn (www.linkedin.com/in/ronak-joshi-199426364) | Follow on GitHub (https://github.com/ronakjoshi21)
 
    
